@@ -1,4 +1,4 @@
-# Stefan Luciano Kencana — Portfolio
+# Stefan's Portfolio
 
 A terminal / IDE themed software engineer portfolio built with Vite, React, TypeScript, and Tailwind CSS, with an interactive particle background that reacts to your cursor and clicks.
 
